@@ -1,13 +1,20 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
+- title: Research paper documentation on NLP
+  event: I wrote a journal on Natural Language Processing. I extracted Twitter
+data from a particular time period, the advent of Covid-19 and studied the sentiments of those extracted tweets using
+IBM Watson tone analyser, BERT model, mallet and TextBlob tools. We analysed the trends of positive andnegative
+tweets over time.
   date: Fall 2020 - Batch 1
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
+- title: Music recommendation system
+  event: Using machine learning, I created a recommendation system similar to Spotify to
+study the users’ song preferences and recommend songs accordingly
   date: Fall 2020 - Batch 1
 
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
+- title: Convolutional neural network for biomedical image segmentation using hardware acceleration
+  event: Using
+CNNs to process brain segmentation using hardware accelerations. The 3 edge detection algorithms were compared,
+Sobel, canny and Prewitt operators and then fed the output images produced to a GPU using CNN’s for biomedical
+image segmentation.
   date: Fall 2020 - Batch 1
 
 - title: Fun Game
