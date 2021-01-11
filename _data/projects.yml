@@ -3,25 +3,30 @@
 data from a particular time period, the advent of Covid-19 and studied the sentiments of those extracted tweets using
 IBM Watson tone analyser, BERT model, mallet and TextBlob tools. We analysed the trends of positive andnegative
 tweets over time.
-  date: Fall 2020 - Batch 1
+  date: Jan 2020 - July 2020
 
 - title: Music recommendation system
   event: Using machine learning, I created a recommendation system similar to Spotify to
 study the users’ song preferences and recommend songs accordingly
-  date: Fall 2020 - Batch 1
+  date: Jan 2020 - July 2020
 
 - title: Convolutional neural network for biomedical image segmentation using hardware acceleration
   event: Using
 CNNs to process brain segmentation using hardware accelerations. The 3 edge detection algorithms were compared,
 Sobel, canny and Prewitt operators and then fed the output images produced to a GPU using CNN’s for biomedical
 image segmentation.
-  date: Fall 2020 - Batch 1
+  date: Jan 2020 - July 2020
 
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
+- title: Machine learning assessments of soil drying
+  event: I used 2 prominent machine learning algorithms, Decision classifier
+and KNN algorithm to classify whether a particular soil type is wet or dry. For this, 3 parameters were considered in
+order to train the model; preciptation1, precipation2, and pot evaporation. These techniques are useful in order to
+determine the amount of water required for a particular type of soil.
+  date: Aug 2020 - Dec 2020
 
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: sprint1
+- title: Research paper on protein -protein interaction between molecules
+  event: I wrote a research paper which investigated
+the interactions between proteins. We used various data structure algorithms and found the relationship between the
+protein-protein interaction
+
+  date: Jan 2019 - May 2019
