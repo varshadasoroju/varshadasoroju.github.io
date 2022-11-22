@@ -1,3 +1,7 @@
+- title: Abstract text summarization - Final sem thesis work
+  event: Abstractive summarization is the technique of generating a summary of a text from its main ideas, not by copying verbatim most salient sentences from text. This is an important and challenging task in natural language processing. For my final year undergrad thesis, we worked on this topic. We took the aid of stacked CNNs to build our deep learning model in order to summarize research papers which were available on the internet. We achieved a accuracy of 87% which was pretty adequate
+  date: Nov 2020 - May 2021
+
 - title: Research paper documentation on NLP
   event: I wrote a journal on Natural Language Processing. I extracted Twitter data from a particular time period, the advent of Covid-19 and studied the sentiments of those extracted tweets using IBM Watson tone analyser, BERT model, mallet and TextBlob tools. We analysed the trends of positive andnegative tweets over time.
   date: Jan 2020 - July 2020
